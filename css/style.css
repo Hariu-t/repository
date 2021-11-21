@@ -1,0 +1,33 @@
+.chechArea .list {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.chechArea .list h2 {
+  margin: 0 0 2em 0;
+  font-size: 16px;
+  text-align: center;
+}
+.chechArea .seminar {
+  float: left;
+  margin: 10px 10px 10px 0;
+  border: 1px solid #23628f;
+  padding: 4px;
+  width: 25%;
+}
+.chechArea .check {
+  margin: 0;
+  padding: 8px;
+  font-size: 12px;
+  color: #ffffff;
+  background: #23628f;
+  text-align: center;
+  cursor: pointer;
+}
+.chechArea .red {
+  background: #e33a6d;
+}
+.chechArea .green {
+  background: #7bc52e;
+}
